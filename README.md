@@ -1,5 +1,6 @@
-Java Console-Based Applications
+#### Java Console-Based Applications
 This repository contains three different Java console-based applications: an ATM Simulation, a Student Grade Calculator, and a Guess the Number game. Each program demonstrates basic programming concepts and interactive user interfaces using the console.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. ATM Simulation
 The ATM Simulation program allows users to perform basic banking operations like withdrawing, depositing, and checking their account balance.
